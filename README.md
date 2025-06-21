@@ -71,4 +71,4 @@ biblioteca/
 ## 👨‍💻 Autor
 
 Desarrollado por **Juan** – Estudiante de Ingeniería en Sistemas  
-GitHub: https://github.com/juansuar/segundaserierecuperacion.git
+GitHub: Juan Suar
